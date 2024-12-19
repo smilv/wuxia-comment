@@ -1,10 +1,3 @@
-<!--
- * @Description: 
- * @Author: zhaobin
- * @Date: 2024-12-20 00:11:17
- * @LastEditors: zhaobin
- * @LastEditTime: 2024-12-20 00:12:49
--->
 # 武侠风注释生成器
 
 根据代码逻辑为代码生成武侠风格的注释，用于[前端 + AI 转型探索营](https://kyscj.xetlk.com/s/3pm8Df)教学目的
