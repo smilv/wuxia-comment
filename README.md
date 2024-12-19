@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @Author: zhaobin
+ * @Date: 2024-12-20 00:11:17
+ * @LastEditors: zhaobin
+ * @LastEditTime: 2024-12-20 00:12:49
+-->
 # 武侠风注释生成器
 
 根据代码逻辑为代码生成武侠风格的注释，用于[前端 + AI 转型探索营](https://kyscj.xetlk.com/s/3pm8Df)教学目的
@@ -50,4 +57,3 @@ wuxia-comment/
 [302.AI](https://302.ai/)是一个按需付费的一站式 AI 应用平台，开放平台，开源生态
 
 [![github-1500×400](https://github.com/user-attachments/assets/af555b88-5875-4542-ae6e-c50992fe3944)](https://302.ai/)
-test
